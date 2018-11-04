@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.207909dc.chunk.css",
-  "main.js": "/static/js/main.214a750e.chunk.js",
-  "main.js.map": "/static/js/main.214a750e.chunk.js.map",
-  "static/js/1.4d1655f2.chunk.js": "/static/js/1.4d1655f2.chunk.js",
-  "static/js/1.4d1655f2.chunk.js.map": "/static/js/1.4d1655f2.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.207909dc.chunk.css.map": "/static/css/main.207909dc.chunk.css.map",
-  "static/media/logo.png": "/static/media/logo.61a536b0.png",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-  "index.html": "/index.html",
-  "precache-manifest.08a2a544c6b5696e1fd3709903882644.js": "/precache-manifest.08a2a544c6b5696e1fd3709903882644.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/denemeistanbul/static/css/main.207909dc.chunk.css",
+  "main.js": "/denemeistanbul/static/js/main.d3bca5a1.chunk.js",
+  "main.js.map": "/denemeistanbul/static/js/main.d3bca5a1.chunk.js.map",
+  "static/js/1.4d1655f2.chunk.js": "/denemeistanbul/static/js/1.4d1655f2.chunk.js",
+  "static/js/1.4d1655f2.chunk.js.map": "/denemeistanbul/static/js/1.4d1655f2.chunk.js.map",
+  "runtime~main.js": "/denemeistanbul/static/js/runtime~main.b2b689e5.js",
+  "runtime~main.js.map": "/denemeistanbul/static/js/runtime~main.b2b689e5.js.map",
+  "static/css/main.207909dc.chunk.css.map": "/denemeistanbul/static/css/main.207909dc.chunk.css.map",
+  "static/media/logo.png": "/denemeistanbul/static/media/logo.61a536b0.png",
+  "static/media/logo.svg": "/denemeistanbul/static/media/logo.5d5d9eef.svg",
+  "index.html": "/denemeistanbul/index.html",
+  "precache-manifest.0ebaf91f7058755927692dca2a9c28f2.js": "/denemeistanbul/precache-manifest.0ebaf91f7058755927692dca2a9c28f2.js",
+  "service-worker.js": "/denemeistanbul/service-worker.js"
 }
